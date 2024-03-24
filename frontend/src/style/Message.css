@@ -1,0 +1,13 @@
+.message-container {
+    overflow-y: scroll;
+}
+
+.message-bubble-start {
+    margin: 10px;
+    justify-content: start;
+}
+
+.message-bubble-end {
+    margin: 10px;
+    justify-content: end;
+}

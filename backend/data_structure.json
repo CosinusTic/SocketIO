@@ -1,0 +1,24 @@
+
+[
+    {
+        "type": "channel",
+        "id": "xxx",
+        "creation_date": "xxx", 
+        "admin_id": "xxx", 
+        "name": "xxx"
+    },
+    {
+        "type": "message",
+        "id": "xxx",
+        "author_username": "xxx", 
+        "content": "xxx", 
+        "creation_date": "xxx",
+        "channel_id": "xxx"
+    },
+    {
+        "type": "user", 
+        "id": "xxx", 
+        "username": "xxx", 
+        "channel_ids": ["xxx", "xxx"]
+    }
+]

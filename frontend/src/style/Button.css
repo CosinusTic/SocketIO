@@ -1,0 +1,22 @@
+.logout-bg {
+    border-radius: 50%;
+    transition-duration: 200ms;
+    width: 75px;
+}
+
+.logout-bg:hover {
+    cursor: pointer;
+    opacity: 60%;
+}
+
+.logo-bg {
+    border-radius: 50%;
+    transition-duration: 200ms;
+    width: 75px;
+}
+
+.logo-bg:hover {
+    cursor: pointer;
+    opacity: 80%;
+    transition-duration: 200ms;
+}

@@ -1,0 +1,2 @@
+PORT=3000
+MONGO_URI=mongodb+srv://epitech_msc_group:irc_project@cluster0.wy8itdq.mongodb.net/?retryWrites=true&w=majority
